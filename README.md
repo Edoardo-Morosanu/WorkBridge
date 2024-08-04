@@ -36,11 +36,11 @@ Follow these steps to get Workbridge up and running:
 
 1. Clone the repository:
 ```bash
-$ git clone https://github.com/Edoardo-Morosanu/Workbridge.git
+$ git clone https://github.com/Edoardo-Morosanu/WorkBridge.git
 ```
 2. Navigate into the project directory:
 ``` bash
-$ cd diplomati_vue
+$ cd WorkBridge
 ```
 3. Build the cargo project:
 ``` bash
@@ -50,7 +50,7 @@ $ cargo build
 ``` bash
 $ cd vue/diplomati && yarn install
 ```
-5. Start the XAMPP server and create a database named `diplomati`.
+5. Start the XAMPP server/phpmyadmin and create a database named `diplomati`.
 
 6. Start the server using cargo in the root directory:
 ``` bash
